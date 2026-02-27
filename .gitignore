@@ -1,0 +1,5 @@
+taft_env/
+venv/
+.venv/
+__pycache__/
+*.zip
